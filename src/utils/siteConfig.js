@@ -4,11 +4,11 @@ module.exports = {
   publisher: 'Neil Swinton', // Organization name used for SEO schema
   siteDescription:
     'Neil Swinton musings on technology',
-  siteUrl: 'https://gcn.netlify.com', // Site domain. Do not include a trailing slash! If you wish to use a path prefix you can read more about that here: https://www.gatsbyjs.org/docs/path-prefix/
+  siteUrl: 'https://pineknollconsulting.netlify.com', // Site domain. Do not include a trailing slash! If you wish to use a path prefix you can read more about that here: https://www.gatsbyjs.org/docs/path-prefix/
   postsPerHomePage: 7, // Number of posts shown on the 1st page of of the index.js template (home page)
   postsPerPage: 6, // Number of posts shown on paginated pages
   author: 'GCN User', // Author for RSS author segment and SEO schema
-  authorUrl: 'https://gcn.netlify.com/about/', // URL used for author and publisher schema, can be a social profile or other personal site
+  authorUrl: 'https://pineknollconsulting.netlify.com/about/', // URL used for author and publisher schema, can be a social profile or other personal site
   userTwitter: '@NeilSwinton', // Change for Twitter Cards
   shortTitle: 'Neil Swinton', // Used for App manifest e.g. Mobile Home Screen
   shareImage: '/logos/share.jpg', // Open Graph Default Share Image. 1200x1200 is recommended
